@@ -5,6 +5,7 @@
 
     Rahul Jaiswal 
 	bluesession@gmail.com
+	DevOps Manager
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3,Angular
     jQuery, Modernizr,AJAX
+	Docker, Kubernetes
