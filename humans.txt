@@ -5,6 +5,7 @@
 
     Rahul Jaiswal 
 	bluesession@gmail.com
+	DevOps Manager
 
 # THANKS
 
@@ -13,5 +14,10 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3,Angular
+<<<<<<< HEAD
     jQuery, Modernizr
 	Machine learning, AWS, Google cloud
+=======
+    jQuery, Modernizr,AJAX
+	Docker, Kubernetes
+>>>>>>> develop
