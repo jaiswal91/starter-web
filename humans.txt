@@ -9,8 +9,7 @@
 
 # THANKS
 
-    <name>
-
+   thanks to all students
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3,Angular
