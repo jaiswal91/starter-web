@@ -2,7 +2,7 @@
 This i GIT Project which we are using as Sample Project
 ## Introduction
 This repository is for showing how Git and GitHub work
-
+Lot of leactures already submitted
 ## GIT & GITHUB Training
 Adding GIT Rebase Lectures in GIT Advance part. We have done  so much work together.
 
