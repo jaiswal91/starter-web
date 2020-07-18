@@ -1,14 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-<<<<<<< HEAD
 Hi, I am modified before Rebase.
-=======
 Hi, Going to insert conflicts in my featuree branch
->>>>>>> Added conflicts in feature branch
 
 Doing some changes in local
-
+Adding some inportant notes on git Stash
 # TEAM
 
     Rahul Jaiswal 
