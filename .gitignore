@@ -1,2 +1,2 @@
 Testfile.txt
-^.log
+*.log
